@@ -16,7 +16,7 @@ pipeline {
                         id: 'userInput', 
                         message: 'Please provide input:',
                         ok: 'Yes, Proceed',
-                        submitter: 'vikash',
+                        submitter: 'smritiKumari',
                         // Specify the userid/username here, and this person must have 
                         // job - Build, Cancel and Configure permission
                         // NOTE: A Admin user is able to approve any builds 
